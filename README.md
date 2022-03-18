@@ -16,8 +16,9 @@ cd simple-dashboard
 ## Install Library
 
 ```
-npm install tailwindcss
-npm install echarts
+npm install react-router-dom
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ```
 
 ## Run
@@ -25,3 +26,7 @@ npm install echarts
 ```
 npm run start
 ```
+
+## Branch
+
+1. [Setup Tailwind + React Router](https://github.com/soAcademy/simple-dashboard/tree/release/1-setup-tailwind-router)
