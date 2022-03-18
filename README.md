@@ -17,10 +17,6 @@ cd simple-dashboard
 
 ```
 npm install react-router-dom
-npm install echarts
-```
-
-```
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
