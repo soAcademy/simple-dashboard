@@ -27,7 +27,7 @@ npx tailwindcss init -p
 npm run start
 ```
 
-## Add sample data
+## Add Sample Data
 
 - Download these datas.
 
