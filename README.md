@@ -48,4 +48,6 @@ src/data/covid.json
 ## Branch
 
 1. [Setup Tailwind + React Router](https://github.com/soAcademy/simple-dashboard/tree/release/1-setup-tailwind-router)
+2. [Add Sample Data](https://github.com/soAcademy/simple-dashboard/tree/feature/2-add-data)
+
 
